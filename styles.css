@@ -1,0 +1,49 @@
+body {
+    background-image: url('images/black.png');
+    color: #FFFFFF;
+    background-size: cover;
+    text-align: left;
+    vertical-align: bottom;
+    text-shadow: #00000;
+}
+    .button {
+    background-color: #009977;
+    border: 2px solid #ffffff;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px 5px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+    div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    .active {
+    background-color: #001111;
+    border: 2px solid #ffffff;
+    color: red;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px 5px;
+    cursor: pointer;
+}
+    .buttons {
+    background-color: #001111;
+    border: 2px solid #f44336;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px 5px;
+    cursor: pointer;
+}
