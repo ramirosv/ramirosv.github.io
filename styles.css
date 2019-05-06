@@ -45,6 +45,14 @@ body {
     display: inline-block;
     font-size: 15px;
     margin: 5px 5px;
-    cursor: pointer;
+    cursor: no-drop;
     border-radius: 16px;
+}
+    .parallax { 
+    background-image: url("img.dreamville.p");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
